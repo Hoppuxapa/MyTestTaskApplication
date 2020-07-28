@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyTestTaskApplication</string>
+    <string name="hey_there">Hey There!</string>
 </resources>
